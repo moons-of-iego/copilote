@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# macOS files 
+.DS_Store
+
+# Centrale Lyon files only
+BE_CS1_indications.ipynb
+BE_CS1_instructions.ipynb
+BE.md
+
+# test and submission files
+test.csv
+submission.csv
