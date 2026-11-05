@@ -20,3 +20,6 @@ BE.md
 # test and submission files
 test.csv
 submission.csv
+
+# visualisation file for the Centrale Lyon report
+visualisation.py
